@@ -1,0 +1,12 @@
+[project]
+name = "genpark-structured-output-json-schema-guard-and-repairer-skill"
+version = "1.0.0"
+description = "Enforces strict JSON schema validation on model outputs and autonomously repairs malformed JSON syntax, trailing commas, and unclosed quotes"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
